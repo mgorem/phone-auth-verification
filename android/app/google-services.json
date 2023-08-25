@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "889819924810",
+    "project_id": "verifyphone-ecc99",
+    "storage_bucket": "verifyphone-ecc99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889819924810:android:8febfd5f7c9e83719b19b3",
+        "android_client_info": {
+          "package_name": "com.mginc.verifyphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889819924810-l74a01s9d53nm940g4bv1di0u9ieoqtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mginc.verifyphone",
+            "certificate_hash": "600fd9c75b50f816bce57653b91bfde9549cf85b"
+          }
+        },
+        {
+          "client_id": "889819924810-9bv0snc0vade71rakiqnpoag4jmdrbp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyraNPjjVDHfFzqbnWxlYfn0JAzkyPsWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889819924810-9bv0snc0vade71rakiqnpoag4jmdrbp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
